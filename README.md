@@ -1,8 +1,3 @@
-Sure! Here's your entire `README.md` content properly formatted in **Markdown** (you can paste this directly into your `README.md` file on GitHub):
-
----
-
-````markdown
 # 💼 Loan Prediction Using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
