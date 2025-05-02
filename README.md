@@ -175,8 +175,3 @@ This project is licensed under the MIT License. Feel free to use and adapt it fo
 ⭐️ *If you like this project, consider giving it a star!*
 
 ```
-
----
-
-Let me know if you want a `requirements.txt`, a project logo badge, or help setting up deployment!
-```
